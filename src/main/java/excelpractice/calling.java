@@ -12,6 +12,7 @@ public class calling {
 		System.out.println(o.getdata(0, 0)); //to get one val from excel
 		//System.out.println(o.row_length());
 		System.out.println(o.col_length(0));
+		System.out.println("i am new");
 //		o.givingvalue("./datasheet/Book1.xlsx", 0, 0, 5, "Status" );
 		
 		
